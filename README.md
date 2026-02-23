@@ -47,9 +47,7 @@ DJNZ R4,OUTER
 END
 ```
 ## OUTPUT(Ascending order)
-
-
-
+![974a5eae-2277-4934-8997-1a56860b9a8f](https://github.com/user-attachments/assets/84125393-914c-4a84-9194-cdc1e7b8e8d8)
 ---
 
 ## Algorithm(Descending order)
@@ -87,9 +85,7 @@ DOWN:  DJNZ R6,LOOP
 END
 ```
 ## OUTPUT(Descending order)
-
-
-
+![c1c2bb8e-3a9e-43ed-bc51-54fe7ee1f701](https://github.com/user-attachments/assets/f0fabd71-51a9-4072-8bb4-708b3eb54418)
 ---
 ## RESULT:
 Thus the sorting of given data was done using 8051 keil software.
